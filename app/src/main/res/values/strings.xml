@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mona_lisa">The Mona Lisa</string>
+    <string name="mona_lisa_desc">"Mona Lisa". Painted by Leonardo da Vinci circa 1503 A.D.</string>
+    <string name="mona_lisa_year">1503</string>
+    <string name="mona_lisa_artist">Leonardo da Vinci</string>
+    <string name="sistine_madonna">The Sistine Madonna</string>
+    <string name="sistine_madonna_desc">"The Sistine Madonna" painted by Raphael circa 1513 A.D.</string>
+    <string name="sistine_madonna_year">1513</string>
+    <string name="sistine_madonna_artist">Raphael</string>
+    <string name="last_supper">The Last Supper</string>
+    <string name="last_supper_desc">"The Last Supper" painted by Leonardo da Vinci circa 1495–1498 A.D.</string>
+    <string name="last_supper_year">1495–1498</string>
+    <string name="last_supper_artist">Leonardo da Vinci</string>
+    <string name="birth_of_venus">The Birth of Venus</string>
+    <string name="birth_of_venus_desc">"The Birth of Venus" painted by Sandro Botticelli circa 1484–1486 A.D.</string>
+    <string name="birth_of_venus_year">1484–1486</string>
+    <string name="birth_of_venus_artist">Sandro Botticelli</string>
+    <string name="creation_of_adam">The Creation of Adam</string>
+    <string name="creation_of_adam_desc">"The Creation of Adam" painted by Michelangelo circa 1512 A.D.</string>
+    <string name="creation_of_adam_year">1512</string>
+    <string name="creation_of_adam_artist">Michelangelo</string>
+    <string name="childrens_games">Children\'s Games</string>
+    <string name="childrens_games_desc">"Children's Games" painted by Pieter Bruegel the Elder circa 1560 A.D.</string>
+    <string name="childrens_games_year">1560</string>
+    <string name="childrens_games_artist">Pieter Bruegel the Elder</string>
+    <string name="salome_london">Salome With the Head of Saint John the Baptist (London)</string>
+    <string name="salome_desc">"Salome With the Head of Saint John the Baptist" painted by Caravaggio in London circa 1607 A.D.</string>
+    <string name="salome_year">1607</string>
+    <string name="salome_artist">Caravaggio</string>
+</resources>
